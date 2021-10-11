@@ -2,5 +2,5 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java, JavaScript and Git
 - 📫 How to reach me lacza.szoft@gmail.com
-
+-de sokat probálkoztam
 
